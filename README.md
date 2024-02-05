@@ -15,10 +15,10 @@ El taller estará finalizado una vez suban su página a internet y agregue a con
 - **Link del sitio web desplegado:**  https://dsaw-2024-1.github.io/intro-to-github-pages-1JuL/
 
 ## CSS Dinner
-![Css dinner completed final image](image.png)
+![Css dinner completed final image](./Images-games/CSS_Dinner.png)
 
 ## Flexbox Froggy
-![Css flexbox froggy completed final image](image-2.png)
+![Css flexbox froggy completed final image](./Images-games/Flexbox_Froggy.png)
 
 ## Grid Garden
-![Css grid garden completed final image](image-1.png)
+![Css grid garden completed final image](./Images-games/Grid_Garden.png)
